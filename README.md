@@ -14,5 +14,5 @@ A simple and elegant desktop application built using Python and the Tkinter libr
   ```bash
   pip install requests
 
-#OutPut Screenshot
+# OutPut Screenshot
 ![image](https://github.com/user-attachments/assets/016e2cac-4311-4562-8900-7002bb0d25f9)
